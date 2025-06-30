@@ -57,7 +57,7 @@ Gerbers are generated with JLCPCB/EasyEDA defaults (2‑layer, 1 oz copper, HA
 
 ## Schematic & PCB
 
-![Schematic](docs/schematic.pdf)
+![Schematic](docs/schematics.pdf)
 
 
 ---
