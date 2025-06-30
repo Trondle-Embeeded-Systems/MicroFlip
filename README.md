@@ -20,7 +20,7 @@
 
 **MicroFlip** is a thumb‑sized breakout that lets you drive a 3–12 V N20 gear‑motor in either direction with a single slide. A rugged DPDT switch wired in an H‑pattern swaps both motor leads, while an on‑board 0 .1 µF / 120 Ω RC snubber suppresses brush noise and protects the contacts from arcing.
 
-Drop MicroFlip between your battery and the motor, bolt the board to the chassis with two M2 screws, and enjoy instant bidirectional control—no microcontroller, no firmware, just **flip to drive, flip back to rewind**.
+Drop MicroFlip between your motor and your motherboard, and enjoy instant bidirectional control—no microcontroller, no firmware, just **flip to drive, flip back to rewind**.
 
 <p align="center">
   <img src="docs/board_render_top.png" width="65%" alt="MicroFlip PCB top render"/>
@@ -31,7 +31,7 @@ Drop MicroFlip between your battery and the motor, bolt the board to the chassis
 ## Features
 
 * **True DPDT reversal** – slide switch swaps *both* motor leads for reliable forward ↔ reverse operation.
-* **Compact footprint (18 × 11 mm)** – fits inside most micro‑robot and lock‑actuator housings.
+* **Compact footprint** – fits inside most micro‑robot and lock‑actuator housings.
 * **Up to 1 A stall current** – short traces keep resistive losses low.
 * **Integrated RC snubber** – 0 .1 µF X7R + 120 Ω ½ W series network mounted right at the motor pins.
 * **Flexible I/O** – large, castellated pads accept 22–26 AWG silicone leads or 2‑pin JST‑PH connectors.
@@ -53,7 +53,7 @@ Gerbers are generated with JLCPCB/EasyEDA defaults (2‑layer, 1 oz copper, HA
 
 ## Schematic & PCB
 
-![Schematic](docs/schematics.pdf)
+![Schematic](docs/schematics.png)
 
 
 ---
@@ -64,8 +64,7 @@ Gerbers are generated with JLCPCB/EasyEDA defaults (2‑layer, 1 oz copper, HA
 
 ## Roadmap
 
-* **v0.2** – add footprints for dual 4.7 nF line‑to‑case caps (classic 3‑cap EMI network).
-* **v0.3** – optional bidirectional TVS across VCC/GND for harsh automotive spikes.
+TBD
 
 Feel free to open issues or PRs with suggestions!
 
@@ -77,10 +76,8 @@ Feel free to open issues or PRs with suggestions!
 2. Commit EasyEDA/Schematics *and* generated Gerbers.
 3. Submit a PR with a clear description of what the change does and why.
 
-Please run `./scripts/check‑erc.sh` before pushing; it runs EasyEDA‑CLI ERC and KiCad DRC on the exported PCB.
-
 ---
 
 ## License
 
-Released under the **MIT License** – see `LICENSE` for details.
+Released under the **GPL-3.0 license** – see `LICENSE` for details.
