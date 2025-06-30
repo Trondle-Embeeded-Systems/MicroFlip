@@ -16,6 +16,10 @@
    
 ---
 
+<p align="center">
+  <img src="docs/render.png" alt="MicroFlip render" width="600"/>
+</p>
+
 ## Overview
 
 **MicroFlip** is a thumb‑sized breakout that lets you drive a 3–12 V N20 gear‑motor in either direction with a single slide. A rugged DPDT switch wired in an H‑pattern swaps both motor leads, while an on‑board 0 .1 µF / 120 Ω RC snubber suppresses brush noise and protects the contacts from arcing.
