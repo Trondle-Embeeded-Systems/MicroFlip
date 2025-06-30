@@ -9,15 +9,11 @@
 1. [Overview](#overview)
 2. [Features](#features)
 3. [Hardware Files](#hardware-files)
-4. [Bill of Materials](#bill-of-materials)
-5. [Schematic & PCB](#schematic--pcb)
-6. [Assembly](#assembly)
-7. [Usage](#usage)
-8. [Bench Test Results](#bench-test-results)
-9. [Roadmap](#roadmap)
-10. [Contributing](#contributing)
-11. [License](#license)
-
+4. [Schematic & PCB](#schematic--pcb)
+5. [Roadmap](#roadmap)
+6. [Contributing](#contributing)
+7. [License](#license)
+   
 ---
 
 ## Overview
