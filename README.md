@@ -22,13 +22,22 @@
 
 Drop MicroFlip between your motor and your motherboard, and enjoy instant bidirectional control—no microcontroller, no firmware, just **flip to drive, flip back to rewind**.
 
-<p align="center">
-  <img src="docs/board_render_top.png" width="65%" alt="MicroFlip PCB top render"/>
-</p>
-
-<p align="center">
-  <img src="docs/board_render_bottom.png" width="65%" alt="MicroFlip PCB bottom render"/>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="docs/board_render_top.png" width="600px" alt="MicroFlip PCB top render"/><br/>
+      <div style="border:1px solid #ccc; padding:8px; margin-top:8px; width:90%; background:#f9f9f9;">
+        <strong>Top view of the MicroFlip PCB</strong>
+      </div>
+    </td>
+    <td align="center">
+      <img src="docs/board_render_bottom.png" width="600px" alt="MicroFlip PCB bottom render"/><br/>
+      <div style="border:1px solid #ccc; padding:8px; margin-top:8px; width:90%; background:#f9f9f9;">
+        <strong>Bottom view of the MicroFlip PCB</strong>
+      </div>
+    </td>
+  </tr>
+</table>
 
 
 ---
