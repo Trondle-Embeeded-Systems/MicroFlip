@@ -25,11 +25,11 @@ Drop MicroFlip between your motor and your motherboard, and enjoy instant bidire
 <table>
   <tr>
     <td align="center">
-      <img src="docs/board_render_top.png" width="400px" alt="MicroFlip PCB top render"/><br/>
+      <img src="docs/board_render_top.png" width="600px" alt="MicroFlip PCB top render"/><br/>
       <sub>Top view of the MicroFlip PCB</sub>
     </td>
     <td align="center">
-      <img src="docs/board_render_bottom.png" width="400px" alt="MicroFlip PCB bottom render"/><br/>
+      <img src="docs/board_render_bottom.png" width="600px" alt="MicroFlip PCB bottom render"/><br/>
       <sub>Bottom view of the MicroFlip PCB</sub>
     </td>
   </tr>
