@@ -65,7 +65,7 @@ Drop MicroFlip between your motor and your motherboard, and enjoy instant bidire
 | `docs/`       | 3D board renders, schematic PDF, datasheets                       |
 | `production/` | Pick‑and‑place CSV, interactive BOM HTML                          |
 
-Gerbers are generated with JLCPCB/EasyEDA defaults (2‑layer, 1 oz copper, HASL‑RoHS). If you send these to another fab check drill tolerances on the 2 mm mounting holes.
+Gerbers are generated with JLCPCB/EasyEDA defaults (2‑layer, 1 oz copper, HASL‑RoHS).
 
 
 ---
