@@ -92,7 +92,13 @@ Feel free to open issues or PRs with suggestions!
 ## Contributing
 
 1. Fork the repo, create a feature branch.
-3. Submit a PR with a clear description of what the change does and why.
+2. Submit a PR with a clear description of what the change does and why.
+
+---
+
+## Support
+
+[If you enjoy my work, consider supporting me by buying me a coffee!](https://buymeacoffee.com/Ntrondle)
 
 ---
 
