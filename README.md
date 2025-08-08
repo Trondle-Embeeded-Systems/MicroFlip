@@ -84,14 +84,11 @@ TBD
 
 Feel free to open issues or PRs with suggestions!
 
----
 
 ## Contributing
 
 1. Fork the repo, create a feature branch.
 2. Submit a PR with a clear description of what the change does and why.
-
----
 
 ## Support
 
