@@ -74,9 +74,6 @@ Gerbers are generated with JLCPCB/EasyEDA defaults (2‑layer, 1 oz copper, HA
 
 ![Schematic](docs/schematic.png)
 
-
----
-
 > **Maximum ratings**: 12 V nominal, 1 A peak. For higher currents use a MOSFET H‑bridge instead.
 
 ---
